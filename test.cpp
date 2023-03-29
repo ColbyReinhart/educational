@@ -28,3 +28,5 @@ int main()
     std::cout << addOne() << std::endl;
     delete point;
 }
+
+//Nic did this for fun
