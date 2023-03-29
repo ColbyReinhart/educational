@@ -10,7 +10,7 @@ int addOne()
 
 void fooBar()
 {
-    std::cout << "Foobar!" << std::endl;
+    std::cout << "Foopoo" << std::endl;
 }
 
 void doThing()
